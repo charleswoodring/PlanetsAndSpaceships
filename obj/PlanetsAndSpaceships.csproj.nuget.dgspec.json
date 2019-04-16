@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\c64wo\\workspace\\csharp\\practice\\PlanetsAndSpaceships\\PlanetsAndSpaceships.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\c64wo\\workspace\\csharp\\practice\\PlanetsAndSpaceships\\PlanetsAndSpaceships.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c64wo\\workspace\\csharp\\practice\\PlanetsAndSpaceships\\PlanetsAndSpaceships.csproj",
+        "projectName": "PlanetsAndSpaceships",
+        "projectPath": "C:\\Users\\c64wo\\workspace\\csharp\\practice\\PlanetsAndSpaceships\\PlanetsAndSpaceships.csproj",
+        "packagesPath": "C:\\Users\\c64wo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c64wo\\workspace\\csharp\\practice\\PlanetsAndSpaceships\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c64wo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
